@@ -19,4 +19,4 @@ The value of each crystal is hidden from you until you click on it.
 * Twitter Bootstrap
 * JavaScript 
 * JQuery- JavaScript Library
-https://tmaher0518.github.io/Crystals-Collector/.
+
